@@ -8,9 +8,9 @@ py <- apply(p,2,sum)
 py
 
 # Exercise: Display P(Y=0) and P(Y=15)
-p[,1]
+p[,1] #P(Y=0)
 
-p[,4]
+p[,4] #P(Y=15)
 
 # Computing conditional probabilities
 # For example, to compute:
