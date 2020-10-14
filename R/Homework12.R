@@ -52,9 +52,9 @@ titanic3 <- "https://goo.gl/At238b" %>%
   sample(nrow(titanic3), replace = TRUE) %>%
   split(titanic3, .)
 rtree_fit <- rpart(survived ~ ., 
-                   .data$training, method = 'class')
+                   .data$training)
 
-rpart.plot(rtree_fit) # Green = survived, Blue = Died
+rpart.plot(rtree_fit) 
 
 tree_fit <- ctree(survived ~ ., 
                   data = .data$training)
