@@ -30,8 +30,8 @@ Why? because the transaction amount is heaviliy skewed towards small transaction
 3. Compare between the models
 
 # References:
-[FBI Credit Card Fraud] (https://www.fbi.gov/scams-and-safety/common-scams-and-crimes/credit-card-fraud#:~:text=Credit%20card%20fraud%20is%20the,in%20an%20identity%20theft%20scheme.)
-[Credit Card Fraud Detection Dataset] (https://www.kaggle.com/mlg-ulb/creditcardfraud)
+[FBI Credit Card Fraud](https://www.fbi.gov/scams-and-safety/common-scams-and-crimes/credit-card-fraud#:~:text=Credit%20card%20fraud%20is%20the,in%20an%20identity%20theft%20scheme.)
+[Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 
 
