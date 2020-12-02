@@ -7,5 +7,6 @@ The dataset contains almost 285k observations. The available features are Time, 
 Why? because the transaction amount is heaviliy skewed towards small transactions and to normalize the distribution.
 Unsacled Amount:
 ![alt text](https://imgur.com/a/pS7FEFA)
+![myimage-alt-tag](https://imgur.com/a/pS7FEFA)
 Sacled Amount:
 ![alt text](https://imgur.com/a/9yrMT2F)
