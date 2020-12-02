@@ -10,3 +10,8 @@ Why? because the transaction amount is heaviliy skewed towards small transaction
 
 **Sacled Amount:**\
 ![Sacled Amount](https://github.com/ZiyadAlmatrafi/Data-science/blob/master/FinalProject/scalcedAmount.PNG)
+
+# 4. Using SMOTE (Synthetic Minority Over-sampling Technique) to balance the data:
+1. SMOTE creates new synthetic points in order to have an equal balance of the classes.
+2. SMOTE picks the distance between the closest neighbors of the minority class, in between these distances it creates synthetic points.
+
