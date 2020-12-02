@@ -14,4 +14,24 @@ Why? because the transaction amount is heaviliy skewed towards small transaction
 # 4. Using SMOTE (Synthetic Minority Over-sampling Technique) to balance the data:
 1. SMOTE creates new synthetic points in order to have an equal balance of the classes.
 2. SMOTE picks the distance between the closest neighbors of the minority class, in between these distances it creates synthetic points.
+**Imbalance Data:**\
+![Unsacled Amount](https://github.com/ZiyadAlmatrafi/Data-science/blob/master/FinalProject/imbalance.PNG)
+
+**Balanced Data:**\
+![Sacled Amount](https://github.com/ZiyadAlmatrafi/Data-science/blob/master/FinalProject/balanced.PNG)
+
+# 5.Random Forest Classifier:
+1. Random Forest is ensemble of Decision trees which performs Bagging internally. 
+2. Random Forest creates several trees, sometimes thousands, and calculates the best possible model for a given dataset. Instead of considering all features while splitting a node, Random Forest algorithm selects the best feature out of a subset of all features
+
+# 6.Moving Forward:
+1. Apply Cross-validation on the data.
+2. Try other models
+3. Compare between the models
+
+# References:
+[FBI Credit Card Fraud] (https://www.fbi.gov/scams-and-safety/common-scams-and-crimes/credit-card-fraud#:~:text=Credit%20card%20fraud%20is%20the,in%20an%20identity%20theft%20scheme.)
+[Credit Card Fraud Detection Dataset] (https://www.kaggle.com/mlg-ulb/creditcardfraud)
+
+
 
