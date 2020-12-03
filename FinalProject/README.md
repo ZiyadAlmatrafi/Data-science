@@ -32,6 +32,8 @@ Why? because the transaction amount is heaviliy skewed towards small transaction
 # References:
 - [FBI Credit Card Fraud](https://www.fbi.gov/scams-and-safety/common-scams-and-crimes/credit-card-fraud#:~:text=Credit%20card%20fraud%20is%20the,in%20an%20identity%20theft%20scheme.)
 - [Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
-
+- [RobustScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.RobustScaler.html)
+- [SMOTE explained for noobs - Synthetic Minority Over-sampling TEchnique line by line](http://rikunert.com/SMOTE_explained)
+- [Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 
 
